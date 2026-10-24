@@ -1,0 +1,7 @@
+{
+  "artifact_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "source_repository": "https://example.com/demo.git",
+  "source_revision": "abc123def456",
+  "builder_id": "local-builder",
+  "build_timestamp": "2026-10-17T00:00:00Z"
+}

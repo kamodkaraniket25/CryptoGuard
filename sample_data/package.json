@@ -1,0 +1,11 @@
+{
+  "name": "demo-app",
+  "version": "1.2.3",
+  "dependencies": {
+    "left-pad": "1.0.0",
+    "react": "^18.3.1"
+  },
+  "devDependencies": {
+    "typescript": "5.4.5"
+  }
+}

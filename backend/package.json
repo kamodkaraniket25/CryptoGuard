@@ -1,0 +1,8 @@
+{
+  "name": "cryptoguard-backend",
+  "private": true,
+  "description": "Starts the Python FastAPI server. This folder is not a Node application.",
+  "scripts": {
+    "dev": "node ./start-dev.mjs"
+  }
+}

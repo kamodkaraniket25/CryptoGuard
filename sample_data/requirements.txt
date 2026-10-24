@@ -1,0 +1,5 @@
+# Sample Python requirements for CryptoGuard.
+# Exact pins can be sent to OSV. Ranges are reported as warnings and are not queried.
+requests==2.31.0
+flask>=2.0
+rich
